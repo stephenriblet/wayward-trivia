@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: wayward-trivia
+
+  datasource:
+    url: http://localhost:3306/trivia
